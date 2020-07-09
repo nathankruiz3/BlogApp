@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">Login</string>
+    <string name="create_account_text">New user? Click here to create an account!</string>
+    <string name="register">Register</string>
+    <string name="post_title">Post Title...</string>
+    <string name="post_description">Post Description...</string>
+    <string name="post">Post</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="new_user_title">New User Registration</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
